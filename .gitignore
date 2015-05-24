@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+*.RData
+CourseProject_cache/html/data_8404a0b35f904a3eb4b70b5c9f8a1c58.rdb
+*.rdb
+*.rdx
+*.txt
